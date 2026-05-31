@@ -25,26 +25,7 @@ Food Express is a restaurant discovery app built using React, designed to showca
 
 Check out the live demo here: [](https://zwiggato.vercel.app)
 
-## Installation
 
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/Abhay-04/Zwiggato.git
-
-   ```
-
-2. **Install dependencies:**:
-
-   ```bash
-   npm install
-
-   ```
-
-3. **Start the development server:**:
-   ```bash
-   npm run start
-   ```
 
 ## Contributing
 
